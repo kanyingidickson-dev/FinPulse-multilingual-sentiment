@@ -1,0 +1,10 @@
+{"id": 1, "text": "Market analysts predict a bullish trend for the shilling as exports rise.", "language": "en", "label": "positive"}
+{"id": 2, "text": "Inflation concerns continue to worry investors despite government assurances.", "language": "en", "label": "negative"}
+{"id": 3, "text": "The central bank held the prompt interest rate steady at 10%.", "language": "en", "label": "neutral"}
+{"id": 4, "text": "Quarterly earnings report shows a slight miss on revenue targets.", "language": "en", "label": "negative"}
+{"id": 5, "text": "New fintech regulations are expected to boost digital payments adoption.", "language": "en", "label": "positive"}
+{"id": 6, "text": "Stock market closes flat ahead of the holiday weekend.", "language": "en", "label": "neutral"}
+{"id": 7, "text": "Customers are complaining about the new banking app upgrade crashing.", "language": "en", "label": "negative"}
+{"id": 8, "text": "Great customer service from the local branch manager today!", "language": "en", "label": "positive"}
+{"id": 9, "text": "Just opened a savings account.", "language": "en", "label": "neutral"}
+{"id": 10, "text": "Fees on international transfers are getting ridiculous.", "language": "en", "label": "negative"}
